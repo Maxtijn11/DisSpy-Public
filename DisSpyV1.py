@@ -5,8 +5,8 @@ import os
 import datetime
 import platform
 
-capServers = False
-downloadMedia = False
+capServers = True
+downloadMedia = True
 
 #smart screen clearer
 sysOs = platform.system()
